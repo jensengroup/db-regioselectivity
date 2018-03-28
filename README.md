@@ -2,7 +2,7 @@
 
 A database of real compounds and their regioselective products.
 
-See (insert DOI here) for more details.
+See [10.1039/C7SC04156J](https://doi.org/10.1039/C7SC04156J) for more details.
 
 ## Help
 
@@ -21,5 +21,5 @@ The data is split into three files
 
 ## Cite
 
-insert DOI here
+[10.1039/C7SC04156J](https://doi.org/10.1039/C7SC04156J)
 
